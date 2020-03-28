@@ -1,1 +1,2 @@
 Three areas working tree, staging and committed.
+modified and unmodified status associated with the file.
