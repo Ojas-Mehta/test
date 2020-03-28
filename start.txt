@@ -1,2 +1,3 @@
 I will start learning git now on.
 Version control system.
+Finally, learned to add it on the remote repository. Yipee!!
