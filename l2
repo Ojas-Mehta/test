@@ -1,3 +1,7 @@
 This line is supposed to be the common line.
 
+<<<<<<< HEAD
 Written from the master branch.
+=======
+This is committed from the slave branch.
+>>>>>>> slave
